@@ -17,3 +17,5 @@ const buscar =(nombre)=>{
         console.log("Nombre no encontro")
     }
 };
+
+console.log(buscar('Maria'))
